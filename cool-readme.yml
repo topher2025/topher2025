@@ -1,0 +1,15 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: topher2025
+show: [summary, languages, contributions, weekly, about]
+count:
+  private: true
+  orgs: true
+look:
+  style: dotmatrix
+  color: github
+  background: none
+cards:
+  about:
+    headline: null        # shown large, e.g. "Hi, I'm *topher2025*"; *words* in the accent colour
+    lines: []             # a line each, e.g. ["I build developer tools."]
+    facts: {}             # label: text, e.g. { Focus: Rust, Based in: Lisbon }
