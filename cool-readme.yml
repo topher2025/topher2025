@@ -30,7 +30,9 @@ cards:
   about:
     title: About
     headline: "Fullstack developer; Learning systems/embeded"
-    lines: []
+    lines: 
+      - "I do everything from systems to emulators to cli tools to webbapps"
+      - "I even do karate"
     facts: 
       "Focus": "Embedded/systems, and emulator design"
       "Current Work": "Full-stack webapp developer"
