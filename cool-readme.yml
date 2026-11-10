@@ -29,7 +29,7 @@ cards:
     title: Streaks
   about:
     title: About
-    headline: Fullstack developer; Learning systems/embeded
+    headline: "Fullstack developer; Learning systems/embeded"
     #lines: []
     facts: 
       "Focus": "Embedded/systems, and emulator design",
