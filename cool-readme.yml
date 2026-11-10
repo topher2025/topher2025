@@ -12,7 +12,7 @@ look:
 cards:
   summary:
     title: null
-    ring: prercent
+    ring: percent
   languages:
     title: Most used languages
     count: 6
