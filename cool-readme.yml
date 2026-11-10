@@ -30,7 +30,7 @@ cards:
   about:
     title: About
     headline: Fullstack developer; Learning systems/embeded
-    lines: []
+    #lines: []
     facts: 
       "Focus": "Embedded/systems, and emulator design"
       "Current Work": "Full-stack webapp developer"
