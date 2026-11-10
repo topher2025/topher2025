@@ -15,7 +15,8 @@ cards:
     ring: percent
   languages:
     title: Most used languages
-    count: 6
+    count: 5
+    hide: [Jinja, CSS]
     other: true
   contributions:
     title: Notable contributions
