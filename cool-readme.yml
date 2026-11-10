@@ -1,6 +1,6 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: topher2025
-show: [summary, about, languages, contributions]
+show: [summary, about, languages, steaks]
 count:
   private: true
   orgs: true
