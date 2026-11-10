@@ -1,15 +1,39 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: topher2025
-show: [summary, languages, contributions, weekly, about]
+show: [summary, about, languages, contributions]
 count:
   private: true
   orgs: true
 look:
   style: dotmatrix
   color: github
+  animations: true
   background: none
 cards:
+  summary:
+    title: null
+    ring: prercent
+  languages:
+    title: Most used languages
+    count: 6
+    other: true
+  contributions:
+    title: Notable contributions
+    count: 6              # 3 in view at a time; the rest scroll past in a loop
+    open: true            # open pull requests count too, not only merged ones
+    pin: []               # shown first; pull requests closed without merging never count
+    hide: []
+  weekly:
+    title: Weekly rhythm
+  streaks:
+    title: Streaks
   about:
-    headline: null        # shown large, e.g. "Hi, I'm *topher2025*"; *words* in the accent colour
-    lines: []             # a line each, e.g. ["I build developer tools."]
-    facts: {}             # label: text, e.g. { Focus: Rust, Based in: Lisbon }
+    title: About
+    headline: Fullstack developer; Learning systems/embeded
+    lines: 
+    facts: 
+      "Focus": "Embedded/systems, and emulator design"
+      "Current Work": "Full-stack webapp developer"
+      "Interests": "CTFs, RE, and exploits"
+      "Favorite Language": "Gulf of Mexico (formerly DreamBerd)"
+    # label: text, a line each under the lines
