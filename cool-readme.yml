@@ -32,9 +32,9 @@ cards:
     headline: "Fullstack developer; Learning systems/embeded"
     lines: []
     facts: 
-      "Focus": "Embedded/systems, and emulator design",
-      "Current Work": "Full-stack webapp developer",
-      "Interests": "CTFs, RE, and exploits",
+      "Focus": "Embedded/systems, and emulator design"
+      "Current Work": "Full-stack webapp developer"
+      "Interests": "CTFs, RE, and exploits"
       "Favorite Language": "Gulf of Mexico (formerly DreamBerd)"
     
     # label: text, a line each under the lines
