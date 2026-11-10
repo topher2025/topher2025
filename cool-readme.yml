@@ -5,7 +5,7 @@ count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
+  style: oled
   color: github
   animations: true
   background: none
